@@ -14,9 +14,9 @@
 </p>
 
 - 🔭 I'm currently a [Doctoral Researcher at FCAI, University of Jyväskylä](https://fcai.fi/)
-- 🌱 I'm learning about **Trustworthy AI and Generative AI**
+- 🌱 I'm learning about **Trustworthy AI, Generative AI and AI Agents**
 - 👯 I'm looking to collaborate on **computer vision related projects**
-- 💬 Ask me about **AI, Deep Learning, and computer vision**
+- 💬 Ask me about **AI, Deep Learning, and computer vision, AI Agnets**
 - 📫 Reach me at **ahmeduestc53@outlook.com**
 - ⚡ Fun fact: **I've tried to explain injera to my friends, and they still think it's a pancake!** 😊
 
@@ -47,6 +47,7 @@
     <a href="https://www.oracle.com/java/" target="_blank">
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
     </a> ||
+
     <a href="https://pytorch.org/" target="_blank">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
     </a>
@@ -62,6 +63,7 @@
     <a href="https://numpy.org/" target="_blank">
         <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
     </a> ||
+
     <a href="https://www.mysql.com/" target="_blank">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
     </a>
@@ -71,6 +73,7 @@
     <a href="https://www.tableau.com/" target="_blank">
         <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
     </a> ||
+
     <a href="https://www.w3schools.com/html/" target="_blank">
         <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
     </a>
@@ -80,17 +83,37 @@
     <a href="https://www.javascript.com/" target="_blank">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
     </a> ||
+
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
     </a>
     <a href="https://github.com/" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
     </a> ||
-    <a href="https://www.slicer.org/" target="_blank">
-        <img src="https://img.shields.io/badge/3D%20Slicer-5C3EE8?style=flat&logo=3d-slicer&logoColor=white" alt="3D Slicer" />
+
+    <a href="https://colab.research.google.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white" alt="Colab" />
     </a>
-    <a href="https://www.mrtrix.org/" target="_blank">
-        <img src="https://img.shields.io/badge/MRtrix3-FF6F20?style=flat&logo=mrtrix&logoColor=white" alt="MRtrix3" />
+    <a href="https://github.com/ultralytics/yolov5" target="_blank">
+        <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=YOLO&logoColor=black" alt="YOLO" />
+    </a>
+    <a href="https://google.github.io/mediapipe/" target="_blank">
+        <img src="https://img.shields.io/badge/MediaPipe-F44A45?style=flat&logo=google&logoColor=white" alt="MediaPipe" />
+    </a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank">
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+    </a>
+    <a href="https://aws.amazon.com/sagemaker/" target="_blank">
+        <img src="https://img.shields.io/badge/SageMaker-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="SageMaker" />
+    </a>
+    <a href="https://www.docker.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+    </a>
+    <a href="https://n8n.io/" target="_blank">
+        <img src="https://img.shields.io/badge/N8N-008577?style=flat&logo=n8n&logoColor=white" alt="N8N" />
+    </a>
+    <a href="https://huggingface.co/" target="_blank">
+        <img src="https://img.shields.io/badge/HuggingFace-FFDD54?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face" />
     </a>
 </p>
 
