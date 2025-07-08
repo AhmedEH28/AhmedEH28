@@ -46,8 +46,7 @@
     </a>
     <a href="https://www.oracle.com/java/" target="_blank">
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
-    </a> ||
-
+    </a> |
     <a href="https://pytorch.org/" target="_blank">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
     </a>
@@ -63,7 +62,6 @@
     <a href="https://numpy.org/" target="_blank">
         <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
     </a> ||
-
     <a href="https://www.mysql.com/" target="_blank">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
     </a>
@@ -73,7 +71,6 @@
     <a href="https://www.tableau.com/" target="_blank">
         <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
     </a> ||
-
     <a href="https://www.w3schools.com/html/" target="_blank">
         <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
     </a>
@@ -83,14 +80,12 @@
     <a href="https://www.javascript.com/" target="_blank">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
     </a> ||
-
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
     </a>
     <a href="https://github.com/" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
     </a> ||
-
     <a href="https://colab.research.google.com/" target="_blank">
         <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white" alt="Colab" />
     </a>
