@@ -18,18 +18,11 @@
 - 👯 I'm looking to collaborate on **computer vision related projects**
 - 💬 Ask me about **AI, Deep Learning, and computer vision, AI Agnets**
 - 📫 Reach me at **ahmeduestc53@outlook.com**
-- ⚡ Fun fact: **I've tried to explain injera to my friends, and they still think it's a pancake!** 😊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/ahmed-endris-b99029200/" target="blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://kaggle.com/ahmedendris" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
-    </a>
-    <a href="https://x.com/Ahmed_Endris121" target="blank">
-        <img align="center" src="https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white" alt="X" />
     </a>
     <a href="https://orcid.org/my-orcid?orcid=0000-0001-9376-9238" target="blank">
         <img align="center" src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID" />
@@ -85,10 +78,10 @@
     </a>
     <a href="https://github.com/" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+    </a> 
+    <a href="https://www.docker.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
     </a> ||
-    <a href="https://colab.research.google.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white" alt="Colab" />
-    </a>
     <a href="https://github.com/ultralytics/yolov5" target="_blank">
         <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=YOLO&logoColor=black" alt="YOLO" />
     </a>
@@ -100,9 +93,6 @@
     </a>
     <a href="https://aws.amazon.com/sagemaker/" target="_blank">
         <img src="https://img.shields.io/badge/SageMaker-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="SageMaker" />
-    </a>
-    <a href="https://www.docker.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
     </a>
     <a href="https://n8n.io/" target="_blank">
         <img src="https://img.shields.io/badge/N8N-008577?style=flat&logo=n8n&logoColor=white" alt="N8N" />
@@ -121,7 +111,8 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedendrish&" alt="ahmedendrish" />
+    <img src="https://komarev.com/ghpvc/?username=AhmedEH28&label=Profile%20views&color=0e75b6&style=flat" alt="AhmedEH28" />
+
 </p>
 
 <h3 align="left">📖 Latest Posts and News</h3>
