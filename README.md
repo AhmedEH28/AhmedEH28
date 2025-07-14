@@ -114,8 +114,10 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmedendrish&show_icons=true&locale=en" alt="ahmedendrish" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedendrish&show_icons=true&locale=en&layout=compact" alt="ahmedendrish" />
+   <img src="https://github-readme-stats.vercel.app/api?username=AhmedEH28&show_icons=true&locale=en" alt="AhmedEH28" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedEH28&show_icons=true&locale=en&layout=compact" alt="AhmedEH28" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedEH28&" alt="AhmedEH28" />
+
 </p>
 
 <p align="center">
