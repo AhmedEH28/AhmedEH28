@@ -69,13 +69,19 @@
     </a>
     <a href="https://www.javascript.com/" target="_blank">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+    </a>
+    <a href="https://nodejs.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+    </a>
+    <a href="https://reactjs.org/" target="_blank">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
     </a> ||
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
     </a>
     <a href="https://github.com/" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-    </a> 
+    </a>
     <a href="https://www.docker.com/" target="_blank">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
     </a> ||
