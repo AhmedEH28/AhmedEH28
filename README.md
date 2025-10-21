@@ -10,10 +10,9 @@
     </a>
 </p>
 
-- 🔭 I'm currently a [Doctoral Researcher at FCAI, University of Jyväskylä](https://fcai.fi/)
-- 🌱 I'm learning about **Trustworthy AI, Generative AI and AI Agents**
-- 👯 I'm looking to collaborate on **computer vision related projects**
-- 💬 Ask me about **AI, Deep Learning, and computer vision, AI Agnets**
+- 🔭 I'm currently a [Doctoral Researcher,at AI-DOC—FCAI(https://fcai.fi/ai-doc/),the University of Jyväskylä]
+- 🌱 I'm working on **AI Applications for sports Analysis**
+- 👯 I'm looking forward to collaborate on **computer vision and AI agents projects**
 - 📫 Reach me at **ahmeduestc53@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -30,13 +29,7 @@
 <p align="left">
     <a href="https://www.python.org" target="_blank">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-    </a>
-    <a href="https://www.mathworks.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Matlab-0076A8?style=flat&logo=matlab&logoColor=white" alt="Matlab" />
-    </a>
-    <a href="https://www.oracle.com/java/" target="_blank">
-        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
-    </a> |
+    </a>|
     <a href="https://pytorch.org/" target="_blank">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
     </a>
@@ -54,9 +47,6 @@
     </a> ||
     <a href="https://www.mysql.com/" target="_blank">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     </a>
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
         <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" />
@@ -78,7 +68,10 @@
     </a>
     <a href="https://reactjs.org/" target="_blank">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-    </a> ||
+    </a> 
+    <a href="https://fastapi.tiangolo.com/" target="_blank">
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+    </a>||
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
     </a>
@@ -94,17 +87,14 @@
     <a href="https://google.github.io/mediapipe/" target="_blank">
         <img src="https://img.shields.io/badge/MediaPipe-F44A45?style=flat&logo=google&logoColor=white" alt="MediaPipe" />
     </a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank">
-        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <a href="https://huggingface.co/" target="_blank">
+        <img src="https://img.shields.io/badge/HuggingFace-FFDD54?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face" />
     </a>
     <a href="https://aws.amazon.com/sagemaker/" target="_blank">
         <img src="https://img.shields.io/badge/SageMaker-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="SageMaker" />
     </a>
     <a href="https://n8n.io/" target="_blank">
         <img src="https://img.shields.io/badge/N8N-008577?style=flat&logo=n8n&logoColor=white" alt="N8N" />
-    </a>
-    <a href="https://huggingface.co/" target="_blank">
-        <img src="https://img.shields.io/badge/HuggingFace-FFDD54?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face" />
     </a>
 </p>
 
@@ -123,5 +113,5 @@
 
 <h3 align="left">📖 Latest Posts and News</h3>
 <!-- LATEST-POSTS-AND-NEWS:START -->
-- **coming soon** 
+- coming soon.. 
 <!-- LATEST-POSTS-AND-NEWS:END -->
