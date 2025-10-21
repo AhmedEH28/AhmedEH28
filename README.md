@@ -10,7 +10,7 @@
     </a>
 </p>
 
-- 🔭 I'm currently a [Doctoral Researcher,at AI-DOC—FCAI(https://fcai.fi/ai-doc/),the University of Jyväskylä]
+- 🔭 I'm currently a Doctoral Researcher at [AI-DOC — FCAI, University of Jyväskylä](https://fcai.fi/ai-doc/)
 - 🌱 I'm working on **AI Applications for sports Analysis**
 - 👯 I'm looking forward to collaborate on **computer vision and AI agents projects**
 - 📫 Reach me at **ahmeduestc53@outlook.com**
