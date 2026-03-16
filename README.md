@@ -12,7 +12,7 @@
 
 - 🔭 I'm currently a Doctoral Researcher at [AI-DOC — FCAI](https://fcai.fi/ai-doc/), [University of Jyväskylä-MIMA Research Group](https://www.jyu.fi/en/research-groups/machine-intelligence-methods-and-applications-mima)
 
-- 🌱 I'm working on **AI Applications for sports Analysis**
+- 🌱 I'm working on **AI for sports Analysis**
 - 👯 I'm looking forward to collaborate on **computer vision and AI agents projects**
 - 📫 Reach me at **ahmeduestc53@outlook.com**
 
@@ -33,9 +33,6 @@
     </a>|
     <a href="https://pytorch.org/" target="_blank">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
-    </a>
-    <a href="https://www.tensorflow.org" target="_blank">
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
     </a>
     <a href="https://opencv.org/" target="_blank">
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
@@ -90,9 +87,6 @@
     </a>
     <a href="https://huggingface.co/" target="_blank">
         <img src="https://img.shields.io/badge/HuggingFace-FFDD54?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face" />
-    </a>
-    <a href="https://aws.amazon.com/sagemaker/" target="_blank">
-        <img src="https://img.shields.io/badge/SageMaker-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="SageMaker" />
     </a>
     <a href="https://n8n.io/" target="_blank">
         <img src="https://img.shields.io/badge/N8N-008577?style=flat&logo=n8n&logoColor=white" alt="N8N" />
